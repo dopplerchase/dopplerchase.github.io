@@ -6,7 +6,7 @@ date: 2016-03-23T11:48:41-04:00
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/tetons.png
+  overlay_image: /assets/images/Tetons.png
 excerpt: "This is my personal webpage describing who I am and what research interests I have"
 intro: 
   - excerpt: "This website is meant to give some added detail and perspective of who I am and what I do. Everyone's career journey is unqiue and here are some of the twists and turns of mine!"
