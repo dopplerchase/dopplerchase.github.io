@@ -32,4 +32,6 @@ After Brockport I went on to do a Masters and PhD at the University of Illinois,
 
 <h3> <i> Other </i> </h3> 
 
-Some other things to know about me are my passion for sports (American Football)
+IMAGE FROM STATE FARM CENTER
+
+Some other things to know about me are: I am a HUGE Illini fan, stemming from my time at UIUC. I particularly keen on Illini football and basketball. 
