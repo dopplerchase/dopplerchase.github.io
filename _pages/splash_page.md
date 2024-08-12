@@ -16,7 +16,7 @@ feature_row:
   - image_path: /assets/images/chase.jpeg
     alt: "Picture of the author"
     title: "About me"
-    excerpt: "Read more about who I am and where I came from"
+    excerpt: "Read more about who I am"
     url: "/about/"
     btn_label: "Read More"
     btn_class: "btn--primary"

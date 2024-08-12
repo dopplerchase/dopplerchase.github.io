@@ -1,7 +1,11 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Past Research"
-    url: /past-research/
+  - title: "CV"
+    url: /assets/docs/RandyChase_CV_long.pdf
+  - title: "Short CV"
+    url: /assets/docs/RandyChase_CV_short.pdf
   - title: "Current Research"
     url: /current-research/
+  - title: "Past Research"
+    url: /past-research/

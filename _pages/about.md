@@ -5,6 +5,8 @@ title: "About"
 
 Hello! My name is Randy Chase, and I am a research scientist at the Cooperative Institute for Research in the Atmosphere (CIRA) located at Colorado State University (CSU). I work 100% remotely for CIRA from Salt Lake City where my partner and I live. 
 
+**TL;DR:** I got interested in weather at a young age from movies (e.g., twister) and lake effect snow. You will often find me playing tennis, hiking, bike riding, playing video games or cheering on the Illini and Bills. 
+
 <h2> My Journey </h2>
 
 <h3> <i> Weather Interests </i> </h3> 
