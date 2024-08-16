@@ -8,7 +8,13 @@ This page is some additional information about topics of research I have explore
 <h2> Machine Learning for Meteorology (Postdoc) </h2>
 <i> 2021 - 2023 </i>
 
-After dabbling in machine learning for my PhD, I went on to do machine learning as the focus of my research as a postdoc at the University of Oklahoma (remotely) working with Amy McGovern. 
+![ML_Through_Time](https://journals.ametsoc.org/view/journals/wefo/37/8/full-WAF-D-22-0070.1-f1.jpg) 
+
+Machine learning within Meteorology journals has been growing at an exponetial rate. 
+
+After dabbling with machine learning for my PhD, I went on to do machine learning as the focus of my research as a postdoc at the University of Oklahoma (remotely) working with Dr. Amy McGovern. My first goal while at OU was to write two plain language 
+
+
 
 <h2> Global Precipitation Measurement mission snowfall (PhD) </h2>
 <i> 2018 - 2021 </i>

@@ -3,7 +3,7 @@ permalink: /current-research/
 title: "Current Research"
 ---
 
-My current research centers on using machine learning and remote sensing from space. I work on two primary grants, Satellite-based 3D global cloud field analysis (OVERCAST) sponsored by the Office of Naval Research, and INvestigation of Convective UpdraftS (INCUS) sponsored by NASA. 
+My current research centers on using machine learning with remote sensing from space. I work on two primary grants, Satellite-based 3D global cloud field analysis (OVERCAST) sponsored by the Office of Naval Research, and INvestigation of Convective UpdraftS (INCUS) sponsored by NASA. 
 
 
 <h1> OVERCAST </h1> 
