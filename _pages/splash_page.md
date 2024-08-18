@@ -7,9 +7,9 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/Tetons.png
-excerpt: "This is my personal webpage describing who I am and what research interests I have"
+excerpt: ""
 intro: 
-  - excerpt: "This website is meant to give some added detail and perspective of who I am and what I do. Everyone's career journey is unqiue and here are some of the twists and turns of mine! I am still building this site, please be patient. Last update was August 12th 2024"
+  - excerpt: ""
 outro:
   -excerpt: "This webpage was made from the minimal-mistakes github repo and the help of chatGPT"
 feature_row:
@@ -59,6 +59,10 @@ feature_row4:
     btn_class: "btn--primary"
 ---
 
+I am a research scientist with domain expertise in the atmospheric sciences and artificial intellegence/machine learning. I am generally interested in radar meteorology, satellite meteorology, artifical intellegence use for weather forecasting.
+
+There are several pages providing additional context [about me](/about/), my [current research](/current-research/) and my [past research](/past-research/). My [CV](/assets/docs/RandyChase_CV_long.pdf) can be found in the navigation bar. If you are on the other pages, useful links can be found on the left sidepanel while on a laptop, or the follow button at the top on a mobile platform.
+
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
@@ -71,4 +75,4 @@ feature_row4:
 
 <!-- <a class="twitter-timeline" href="https://twitter.com/DopplerChase?ref_src=twsrc%5Etfw">Tweets by DopplerChase</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
 
-<p> <center> This page was made with the help of chatGPT </center> </p>
+<p> <center> This page was made with the help of chatGPT and was last edited on August 18th 2024 </center> </p>

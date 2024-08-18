@@ -3,9 +3,11 @@ permalink: /about/
 title: "About"
 ---
 
+![Arches](/assets/images/RandyandBecca.JPG) 
+
 Hello! My name is Randy Chase, and I am a research scientist at the Cooperative Institute for Research in the Atmosphere (CIRA) located at Colorado State University (CSU). I work 100% remotely for CIRA from Salt Lake City where my partner and I live. 
 
-**TL;DR:** I got interested in weather at a young age from movies (e.g., twister) and lake effect snow. You will often find me playing tennis, hiking, bike riding, playing video games or cheering on the Illini and Bills. 
+**TL;DR:** I got interested in weather at a young age from movies (e.g., twister) and lake effect snow. I got my B.S., M.S., and Ph.D. all in Atmospheric Sciences/Meteorology. You will often find me chasing storms, playing tennis, or cheering on the Fighting Illini and the Buffalo Bills. 
 
 <h2> My Journey </h2>
 
@@ -34,6 +36,6 @@ After Brockport I went on to do a Masters and PhD at the University of Illinois,
 
 <h3> <i> Other </i> </h3> 
 
-IMAGE FROM STATE FARM CENTER
+![Arches](/assets/images/arches.jpeg) 
 
-Some other things to know about me are: I am a HUGE Illini fan, stemming from my time at UIUC. I particularly keen on Illini football and basketball. 
+Some other things to know about me are: I am a HUGE Illini and Bills fan. So if you see me out and about, I will often be wearing something Illini or Bills related. 

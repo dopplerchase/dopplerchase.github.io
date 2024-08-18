@@ -3,7 +3,10 @@ permalink: /past-research/
 title: "Past Research"
 ---
 
-This page is some additional information about topics of research I have explored in the past. The TL;DR is I went from ozone transport in the amazon, to radar retrievals of snow, to machine learning for general meteorologists and severe weather. 
+This page is some additional information about topics of research I have explored in the past. 
+
+
+**TL;DR:** I stared my research career studying ozone transport in the amazon, went on to study radar retrievals of snow and then focused on machine learning methods  meteorological tasks.
 
 <h2> Machine Learning for Meteorology (Postdoc) </h2>
 <i> 2021 - 2023 </i>
