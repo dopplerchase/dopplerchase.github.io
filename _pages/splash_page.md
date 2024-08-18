@@ -59,7 +59,7 @@ feature_row4:
     btn_class: "btn--primary"
 ---
 
-I am a research scientist with domain expertise in the atmospheric sciences and artificial intellegence/machine learning. I am generally interested in radar meteorology, satellite meteorology, artifical intellegence use for weather forecasting.
+I am a research scientist with domain expertise in the atmospheric sciences and artificial intellegence/machine learning. I am generally interested in radar meteorology, satellite meteorology, and artifical intellegence use for weather forecasting.
 
 There are several pages providing additional context [about me](/about/), my [current research](/current-research/) and my [past research](/past-research/). My [CV](/assets/docs/RandyChase_CV_long.pdf) can be found in the navigation bar. If you are on the other pages, useful links can be found on the left sidepanel while on a laptop, or the follow button at the top on a mobile platform.
 
