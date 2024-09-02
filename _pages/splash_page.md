@@ -59,7 +59,7 @@ feature_row4:
     btn_class: "btn--primary"
 ---
 
-I am a research scientist with domain expertise in the atmospheric sciences and artificial intellegence/machine learning. I am generally interested in radar meteorology, satellite meteorology, and artifical intellegence use for weather forecasting.
+I am a research scientist with domain expertise in the atmospheric sciences and artificial intelligence/machine learning. I am generally interested in radar meteorology, satellite meteorology, and artificial intelligence use for weather forecasting.
 
 There are several pages providing additional context [about me](/about/), my [current research](/current-research/) and my [past research](/past-research/). My [CV](/assets/docs/RandyChase_CV_long.pdf) can be found in the navigation bar. If you are on the other pages, useful links can be found on the left sidepanel while on a laptop, or the follow button at the top on a mobile platform.
 
@@ -75,4 +75,4 @@ There are several pages providing additional context [about me](/about/), my [cu
 
 <!-- <a class="twitter-timeline" href="https://twitter.com/DopplerChase?ref_src=twsrc%5Etfw">Tweets by DopplerChase</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
 
-<p> <center> This page was made with the help of chatGPT and was last edited on August 18th 2024 </center> </p>
+<p> <center> This page was made with the help of chatGPT and was last edited on August 29th 2024 </center> </p>
