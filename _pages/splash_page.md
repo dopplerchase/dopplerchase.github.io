@@ -75,4 +75,4 @@ There are several pages providing additional context [about me](/about/), my [cu
 
 <!-- <a class="twitter-timeline" href="https://twitter.com/DopplerChase?ref_src=twsrc%5Etfw">Tweets by DopplerChase</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
 
-<p> <center> This page was made with the help of chatGPT and was last edited on August 29th 2024 </center> </p>
+<p> <center> This page was made with the help of chatGPT and was last edited on November 25th 2024 </center> </p>
